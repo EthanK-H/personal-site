@@ -121,5 +121,5 @@ social:
 highlight_name: true
 ---
 
-I am an Embedded Systems Developer at AWE. My current research interests focus on how to align powerful AI systems with our values. I'm currently working on a Supervised Program on Alignment Research (SPAR) project, where I'm working on trying to better understand sycophancy in LLMs.
+I am an Embedded Systems Developer at AWE, working within the radiological instruments team. Outside of work, my research interests focus on how to align powerful AI systems with our values. I'm currently working on a Supervised Program on Alignment Research (SPAR) project, where I'm conducting research into how activation steering and representation engineering can be used to reduce sycophancy in LLMs.
 {style="text-align: justify;"}
