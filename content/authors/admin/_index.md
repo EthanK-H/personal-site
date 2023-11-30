@@ -17,15 +17,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Embedded Systems Developer
+role: 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Atomic Weapons Establishment
-    url: https://www.awe.co.uk/
+  # - name:
+  #   url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an Embedded Systems Developer at AWE. My current research interests focus on how to align powerful AI systems with our values. I'm currently working on a Supervised Program on Alignment Research (SPAR) project, where I'm working on trying to better understand sycophancy in LLMs.
+bio: My current research interests focus on how to align powerful AI systems with our values. I'm currently working on a Supervised Program on Alignment Research (SPAR) project, where I'm working on trying to better understand sycophancy in LLMs.
 
 # Interests to show in About widget
 interests:
@@ -121,5 +121,5 @@ social:
 highlight_name: true
 ---
 
-I am an Embedded Systems Developer at AWE, working within the radiological instruments team. Outside of work, my research interests focus on how to align powerful AI systems with our values. I'm currently working on a Supervised Program on Alignment Research (SPAR) project, where I'm conducting research into how activation steering and representation engineering can be used to reduce sycophancy in LLMs.
+My research interests focus on how to align powerful AI systems with our values. I'm currently working on a Supervised Program on Alignment Research (SPAR) project, where I'm conducting research into how activation steering and representation engineering can be used to reduce sycophancy in LLMs.
 {style="text-align: justify;"}
